@@ -25,6 +25,8 @@
 | discordstatus.com      | Status page                              |
 | discordpartygames.com  | Voice channel activity API host          |
 | discord-activities.com | Voice channel activity API host          |
+| discordvibeapps.com    | Unknown right now                        |
+
 
 ## Other
 
